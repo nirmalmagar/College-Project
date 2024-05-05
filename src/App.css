@@ -1,0 +1,16 @@
+#homeBgImg {
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+#platform {
+  height: 100vh;
+  margin-top: 24vh;
+}
+#platform h1 {
+  font-size: 60px;
+}
+button {
+  background-color: orange;
+  /* border: none; */
+}
